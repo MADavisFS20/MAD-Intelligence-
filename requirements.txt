@@ -1,0 +1,5 @@
+# PyTorch and NumPy: in Termux install with `pkg install python-torch python-numpy`
+# (do not pip-install a different torch over the Termux package).
+torch
+numpy
+# Optional but recommended (cloud backup + extra datasets): pip install -U huggingface_hub

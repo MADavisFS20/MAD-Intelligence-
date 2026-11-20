@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.backup/
+backup_*/
+*.bak*
+checkpoints*/
+logs/
+state/
+data/processed/
+data/raw/*.jsonl
+data/hf_cache/
+data/gh_state.json
+data/hf_state.json
+.hf_stage/
+.hf_restore/
+config.json

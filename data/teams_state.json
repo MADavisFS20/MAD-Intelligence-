@@ -1,0 +1,30 @@
+{
+ "hf_done": [
+  "ethanolivertroy/nist-cybersecurity-training",
+  "sigmabaaaaaa/UltraData-Math",
+  "WNT3D/Ultimate-Offensive-Red-Team",
+  "jason-oneal/mitre-stix-cve-exploitdb-dataset-alpaca-chatml-harmony",
+  "emirkaanozdemr/bash_command_data_6K",
+  "theelderemo/pentesting-explanations"
+ ],
+ "gh_done": [
+  "mukul975/Anthropic-Cybersecurity-Skills",
+  "pranshuparmar/witr",
+  "moonD4rk/HackBrowserData",
+  "dastergon/awesome-sre",
+  "kubeshark/kubeshark",
+  "upgundecha/howtheysre",
+  "meirwah/awesome-incident-response",
+  "toniblyx/my-arsenal-of-aws-security-tools",
+  "beenuar/AiSOC",
+  "usestrix/strix",
+  "soxoj/maigret",
+  "smicallef/spiderfoot",
+  "bee-san/Ciphey",
+  "projectdiscovery/subfinder",
+  "0x4m4/hexstrike-ai",
+  "elementalsouls/Claude-BugHunter",
+  "lockfale/OSINT-Framework",
+  "google/osv-scanner"
+ ]
+}
